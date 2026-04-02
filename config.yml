@@ -1,0 +1,26 @@
+title: Rida Batool's Website
+description: My personal blog and portfolio website
+baseurl: "" 
+url: ""  
+
+# Author details
+author:
+  name: Rida Batool
+  email: ridabatoolsaleem@gmail.com
+
+# Theme (GitHub supported theme)
+theme: minima
+
+# Navigation pages (important)
+header_pages:
+  - index.md
+  - about.md
+  - blog.md
+  - contact.md
+
+# Plugins (supported by GitHub Pages)
+plugins:
+  - jekyll-feed
+
+# Show excerpts on blog page (optional)
+show_excerpts: true
