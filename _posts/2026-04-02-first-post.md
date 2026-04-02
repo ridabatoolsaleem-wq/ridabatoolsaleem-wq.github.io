@@ -1,25 +1,101 @@
-# Articles Collection 
+# My Articles 
 
 ---
 
 ## Article 1: My First Day in Computer Engineering
 
-Starting my journey in Computer Engineering was both exciting and overwhelming, especially because I did not have a background in computers. Unlike many of my classmates, I had little to no prior experience with programming. When I first looked at my subjects, I was surprised and confused because most of them were coding-based, with Python as a major component. At that moment, I felt uncertain about how I would manage such technical subjects, but at the same time, I was curious and willing to learn something new.
+Starting my journey in Computer Engineering was both exciting and overwhelming, especially because I did not have a background in computers. Unlike many of my classmates, I had little to no prior experience with programming.
 
-On the very first day, we had an orientation session conducted by Dr. Bilal, who proved to be a highly skilled and supportive instructor. He introduced us to Python and started teaching from the basics. Despite his clear explanations, I struggled a lot during the first two to three weeks. Coding felt like a completely new language, and I found it difficult to understand even simple concepts. However, with time and consistent exposure, things slowly started to make sense.
+On the very first day, we had an orientation session conducted by Dr. Bilal, who introduced us to Python. In the beginning, I struggled a lot, but gradually things started making sense.
 
-Dr. Bilal’s teaching style played a significant role in helping me build my initial understanding. Alongside academic challenges, I also had to adjust to hostel life. Being a hostelite and sharing a room required me to adapt to a new environment, manage shared space, and maintain a study routine. It was not easy to focus on coding, which demands full concentration and continuous practice. However, over time, I learned how to balance my studies and personal life.
-
-These early experiences taught me discipline, patience, and the importance of consistency. Although the beginning was difficult, it laid the foundation for my journey in Computer Engineering.
+Alongside academic challenges, I also had to adjust to hostel life. Over time, I learned discipline, patience, and consistency.
 
 ---
 
 ## Article 2: My Journey to Understanding Python
 
-Learning Python was one of the most difficult yet important parts of my academic journey. Since I did not have a computer background, I initially found coding very confusing and challenging. Even basic concepts seemed complicated, and I often felt lost during lectures. However, I decided to make a serious effort to improve and started exploring different ways to understand programming.
+Learning Python was difficult at first because I had no coding background. I often felt lost during lectures.
 
-One of the main tools I used was Visual Studio (VS) for Python. Compared to other software, I found it much easier to use because of its simple interface. It helped me focus more on writing and understanding code rather than struggling with technical setup.
+I used Visual Studio to practice, which made learning easier. One major challenge was writing code on paper during quizzes.
 
-One of my biggest challenges was writing code on paper during quizzes. I often made mistakes in syntax and structure, which affected my performance. Dr. Bilal supported us a lot by providing detailed PDFs for every topic, which helped me a lot in revision.
+With time, practice, and help from notes provided by Dr. Bilal, I improved gradually.
 
-This journey taught me that programming requires patience, consistency, and practice.
+---
+
+## Article 3: Struggles and Learning in Computer Engineering Labs
+
+Lab sessions were long and challenging, often lasting 3 hours. Initially, I struggled to stay focused.
+
+Our instructor provided manuals and step-by-step guidance, which helped a lot.
+
+Despite issues like electricity problems, I improved through practice and patience.
+
+---
+
+## Article 4: Pre-Mids and Midterm Challenges in Programming Fundamentals
+
+Before midterms, quizzes were conducted regularly. I found them difficult due to weak concepts.
+
+The midterm exam was challenging, and I was not fully satisfied with my performance.
+
+This phase taught me the importance of consistency and practice.
+
+---
+
+## Article 5: Post-Midterm Project Experience with Pandas
+
+We were assigned a dataset project using Pandas. My group partner handled most of the work, so I could not fully participate.
+
+However, during the viva, I managed to answer questions and performed well.
+
+This experience taught me the importance of active participation.
+
+---
+
+## Article 6: Final Exams and Results in Programming Fundamentals
+
+Final exams included interesting machine learning concepts.
+
+Although I struggled earlier, I performed better in the final exam due to interest in the topic.
+
+Attendance played an important role in my overall performance.
+
+---
+
+## Article 7: Beginning the Second Semester with Database Systems
+
+In the second semester, I studied Database Systems using MySQL.
+
+This subject was easier compared to Python, and I understood it better.
+
+We also learned practical tools like MySQL Workbench and localhost setup.
+
+---
+
+## Article 8: Planning an E-Commerce Project
+
+We were assigned a group project to create an e-commerce idea.
+
+Initially, we planned a beauty product website, but later changed it due to instructions.
+
+This taught us creativity and flexibility in project work.
+
+---
+
+## Article 9: Impact of Current Situations on Academic Life
+
+Due to petrol shortage, classes shifted online.
+
+Online learning was more difficult, but I managed to continue.
+
+I also faced an issue of username misuse, which was resolved professionally.
+
+---
+
+## Article 10: Developing New Machine Learning Datasets
+
+We created dataset ideas for machine learning projects.
+
+I actively participated and created three ideas.
+
+This improved my confidence and understanding of real-world applications.
